@@ -5,8 +5,7 @@ In this experiment, we're diving into Arduino's input devices. I picked a light 
 
 - Sensors usually have three pins: VCC, GND, and SIG, which connect to power, ground, and Arduino pins seperately.
   - ![the light sensor I uesd](./images/IMG_0723.jpeg)![the touch sensor I used](./images/IMG_0722.jpeg)
-- If you're using a two-pin sensor, hook one pin up to power and the other to an Arduino pin.
-  ->**And don't forget to link a ground wire to that same Arduino pin's side.**
+- If you're using a two-pin sensor, hook one pin up to power and the other to an Arduino pin.**And don't forget to link a ground wire to that same Arduino pin's side.**
   ![the "raw" light sensor with only two pins](./images/IMG_0729.jpeg)
 
 ## Documentation
