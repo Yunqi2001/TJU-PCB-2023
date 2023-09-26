@@ -17,7 +17,7 @@
 	![the picture of clouds took on other days](./images/IMG_0242.jpeg)
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
-![the soft earth after rain](./images/IMG_0768.jpeg)![the shoes with thick sole I wore that day](./images/IMG_1183.jpeg)
+	- ![the soft earth after rain](./images/IMG_0768.jpeg)![the shoes with thick sole I wore that day](./images/IMG_1183.jpeg)
 
 ### 2. Overall Exploration Map with More Findings
 ![other findings 1](./images/IMG_1179.jpeg)
