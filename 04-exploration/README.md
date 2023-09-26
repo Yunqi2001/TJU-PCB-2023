@@ -21,7 +21,7 @@
 	![[IMG_0768.jpeg]]
 	![[IMG_1183.jpeg]]
 	*above: the shoes with thick sole I wore that day*
-##### 2. Overall Exploration Map with More Findings
+### 2. Overall Exploration Map with More Findings
 ![[IMG_1179.jpeg]]
 ![[IMG_1178.jpeg]]
 1. my feet felt the slight difference stepping on different surface through my shoes 
