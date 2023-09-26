@@ -12,10 +12,9 @@
 - **my eyes:** 
 		- the shape of the clouds will change depends on different humidity and weather
 		- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
-	![[IMG_0747.jpeg]]
-	*above: the picture of clouds took on the exploration day*
-	![[IMG_0579.jpeg]]![[IMG_0242.jpeg]]
-	*above: the picture of clouds took on other days*
+	![*the picture of clouds took on the exploration day*](./images/IMG_0747.jpeg)
+	![*above: the picture of clouds took on other days*](./images/IMG_0579.jpeg)
+	![*above: the picture of clouds took on other days*](./images/IMG_0242.jpeg)
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
 	![[IMG_0768.jpeg]]
