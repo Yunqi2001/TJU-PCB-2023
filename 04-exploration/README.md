@@ -30,6 +30,6 @@
 5.  several pieces of shed bark on the lawn on the rainy day   
 	![shed bark on the lawn](./images/IMG_0750.jpeg)
 6.  it seems that more moss appear on rainy days
-	![the moss 1](./images/IMG_0748.jpeg) ![the moss 2](./images/IMG_0754.jpeg) ![the moss 3](./images/IMG_0744.jpeg)
+![the moss 1](./images/IMG_0748.jpeg) ![the moss 2](./images/IMG_0754.jpeg) ![the moss 3](./images/IMG_0744.jpeg)
 7.  where I lied down and noticed the clouds moving
 8. the smell of the plants became stronger in the rainy days
