@@ -20,8 +20,7 @@
 	- ![the soft earth after rain](./images/IMG_0768.jpeg)![the shoes with thick sole I wore that day](./images/IMG_1183.jpeg)
 
 ### 2. Overall Exploration Map with More Findings
-![other findings 1](./images/IMG_1179.jpeg)
-![other findings 2](./images/IMG_1178.jpeg)
+![other findings 1](./images/IMG_1179.jpeg)![other findings 2](./images/IMG_1178.jpeg)
 1. my feet felt the slight difference stepping on different surface through my shoes 
 2. the lawn was just been mowed by a lawn mower and the smell of grass was strong
 3. walking from the open lawn into the boulevard, the light darkened suddenly
