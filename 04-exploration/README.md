@@ -19,6 +19,7 @@
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
 	![the soft earth after rain](./images/IMG_0768.jpeg)
 	![the shoes with thick sole I wore that day](./images/IMG_1183.jpeg)
+
 ### 2. Overall Exploration Map with More Findings
 ![other findings 1](./images/IMG_1179.jpeg)
 ![other findings 2](./images/IMG_1178.jpeg)
@@ -30,6 +31,6 @@
 5.  several pieces of shed bark on the lawn on the rainy day
 	![shed bark on the lawn](./images/IMG_0750.jpeg)
 6.  it seems that more moss appear on rainy days
-![the moss 1](./images/IMG_0748.jpeg) ![the moss 2](./images/IMG_0754.jpeg) ![the moss 3](./images/IMG_0744.jpeg)
+	![the moss 1](./images/IMG_0748.jpeg) ![the moss 2](./images/IMG_0754.jpeg) ![the moss 3](./images/IMG_0744.jpeg)
 7.  where I lied down and noticed the clouds moving
 8. the smell of the plants became stronger in the rainy days
