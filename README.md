@@ -1,7 +1,6 @@
-# Student's documentation template
+Hii
 
-## About
-This is the main README file of your repository, rewrite it with a description of who you are, what are your interests and why you chose this Studio class.
+## My name is Yunqi. This is my PCB project 
 
 ## _
 
