@@ -1,74 +1,23 @@
-Hii
+Hii, here is Yunqi, I'm a designer :)
+This is my PCB (printed circuit board) project at the D&I, Tongji University.
 
-## My name is Yunqi. This is my PCB project 
+Here I will show you how I learn the basics of electronic circuits design, fabrication and programming, and create my own smart device to strengthen the bonds between humans and nature.
 
-## _
+The main tools used include EDA (https://pro.lceda.cn/editor) for circuit design, Arduino IDE (https://www.arduino.cc/en/software) for embedded programming, and the small CNC milling machine and electronic components available at Fablab Shanghai (https://www.fablabs.io/labs/ShanghaiFablab) laboratory.
 
-### Some Markdown syntax
+If you wanna learn and create your own PCB from scratch, things here can be a good reference. 
+If you only want to learn about my final output, please open the "final project" folder directly. 
+Thanks for watching! <3
 
-<pre>Markdown syntax
-* bullet point list
-* bullet point list
-* bullet point list</pre>
 
-* bullet point list
-* bullet point list
-* bullet point list</pre>
 
-## _
+你好！我叫李蕴琦，我是一个设计师 :)
+这是我的PCB（印刷电路板）项目，作为在同济设创大四studio的课程产出。
+我将在这里向你展示我学到的电路设计，制作和编程的知识，以及我是如何用它们设计、制作我自己的智能设备，来加强人与自然的连接的。
 
-<pre>Markdown syntax
-1. numbered list
-2. numbered list
-3. numbered list</pre>
+主要用到的工具有EDA（https://pro.lceda.cn/editor）来设计电路、arduino IDE（https://www.arduino.cc/en/software）来做简单的嵌入式编程、以及Fablab Shanghai（https://www.fablabs.io/labs/ShanghaiFablab）实验室里的小型数控铣床和电子元器件们。
 
-1. numbered list
-2. numbered list
-3. numbered list
+如果想像我一样想从零开始学习、制作你自己的pcb，这会是一个不错的参考。
+如果你仅仅想了解我的作品，请直接打开最后一个 “final project" 文件夹。
 
-## _
-
-<pre>Markdown syntax
-**bold text**</pre>
-
-**bold text**
-
-## _
-
-<pre>Markdown syntax
-*italic text*</pre>
-
-*italic text*
-
-## _
-
-<pre>Markdown syntax
-***italic and bold text***</pre>
-
-***italic and bold text***
-
-## _
-
-Example of an external link:
-<pre>Markdown syntax
-[description of the website](https://www.https://www.example.com/)</pre>
-
-[description of the website](https://www.https://www.example.com/)
-
-## _
-
-Example of a picture hosted on an external website:
-
-<pre>Markdown syntax
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)</pre>
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-## _
-
-Example of a picture hosted inside the same folder as this readme (don't forget the ./ operand):
-
-<pre>Markdown syntax
-![picture description](./example.jpg)</pre>
-
-![picture description](./example.jpg)
+感谢观看 <3
