@@ -10,7 +10,6 @@ If you wanna learn and create your own PCB from scratch, things here can be a go
 
 Thanks for watching! <3
 
-<br>
 
 你好！我叫李蕴琦，我是一个设计师 :)  
 这是我的PCB（印刷电路板）项目，作为在同济设创大四studio的课程产出。
