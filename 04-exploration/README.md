@@ -1,6 +1,7 @@
 # Exploration
 
-## We explored the eco-system in our campus to get some ideas of the final project
+## Description
+We explored the eco-system in our campus to get some ideas of the final project
 
 ## Tips
 - use the sense you already have and you wish you have
