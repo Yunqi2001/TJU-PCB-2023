@@ -1,13 +1,13 @@
 # Exploration
 
 ## Description
-We explored the eco-system in our campus to get some ideas of the final project
+We explored the eco-system in our campus and Gongqing forest park to get some ideas of the final project
 
 ## Tips
 - use the sense you already have and you wish you have
 - think the element in the whole eco-system, think about what makes the element be there, think about the relationship, the system of input and output
 
-## My Findings: 
+## My Findings at the Tongji campus: 
 ### 1. Main Findings
 ![main findings](./images/IMG_1182.jpeg)
 - **my eyes:** 
