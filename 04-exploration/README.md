@@ -75,6 +75,7 @@ This time I got the idea for my final project!
 	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2067.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2063.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2079.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
 ### 2. other findings 
