@@ -40,7 +40,7 @@ click [here](#the-most-important-finding-which-inspired-my-final-project) to the
 2. the lawn was just been mowed by a lawn mower and the smell of grass was strong
 3. walking from the open lawn into the boulevard, the light darkened suddenly
 4. the leaves on the cherry blossom avenue were bitten out of many holes by insects, and more light went through them
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_0757.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
 	(leaves with holes)
