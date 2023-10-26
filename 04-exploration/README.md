@@ -72,9 +72,10 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 8. the smell of the plants became stronger in the rainy days
 
 ## Findings at Gongqing Forest Park
+[⬆️back to top](#Exploration)
+<br/>
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
-[⬆️back to top](#Exploration)
 
 ### 1. the most important finding which inspired my final project
 <p align="left">
