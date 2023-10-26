@@ -28,9 +28,9 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 
 <p align="center">
 	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" width="350">
-	the soft earth after rain
 	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" width="350">
-	the shoes with thick sole I wore that day
+	<br/>
+	the soft earth after rain and the shoes with thick sole I wore that day
 </p>
 
 ### 2. Overall Exploration Map with More Findings
