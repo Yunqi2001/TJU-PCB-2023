@@ -1,7 +1,9 @@
 # 🔍Exploration
 
 ## ✏️Description
-We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gongqing forest park](#findings-at-gongqing-forest-park) to get some ideas of the final project
+We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gongqing forest park](#findings-at-gongqing-forest-park) to get some inspiration of the final project.
+<br/>
+click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to the finding that finally became my project
 
 ## 💡Tips
 - use the sense you already have and you wish you have
@@ -62,7 +64,7 @@ We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gong
 8. the smell of the plants became stronger in the rainy days
 
 ## Findings at Gongqing Forest Park
-At Oct.18th we did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
+🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 ### 1. the most important finding which inspired my final project
 ### 2. other findings 
