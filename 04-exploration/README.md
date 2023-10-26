@@ -3,7 +3,7 @@
 ## ✏️Description
 We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gongqing forest park](#findings-at-gongqing-forest-park) to get some inspiration of the final project.
 <br/>
-click [here](#the-most-important-finding-which-inspired-my-final-project) to the finding that finally became my project
+click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to the finding that finally became my project
 
 ## 💡Tips
 - use the sense you already have and you wish you have
@@ -11,7 +11,7 @@ click [here](#the-most-important-finding-which-inspired-my-final-project) to the
 
 ## Findings at Tongji campus
 ### 1. Main Findings
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
 </p>
 - **my eyes:** 
