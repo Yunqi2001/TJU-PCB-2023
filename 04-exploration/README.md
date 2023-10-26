@@ -9,6 +9,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 
 ## My Findings at the Tongji campus: 
 ### 1. Main Findings
+
 <p align="center">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
 </p>
