@@ -71,5 +71,11 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 ### 1. the most important finding which inspired my final project
+<p align="left">
+	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2067.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2063.jpeg") alt="size limit image cant be show" height="350">
+</p>
+
 ### 2. other findings 
 ### 3. just wanna show you some beautiful photoes I took ;)
