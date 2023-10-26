@@ -7,7 +7,7 @@ We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gong
 - use the sense you already have and you wish you have
 - think the element in the whole eco-system, think about what makes the element be there, think about the relationship, the system of input and output
 
-## Findings at Tongji campus: 
+## Findings at Tongji campus
 ### 1. Main Findings
 <p align="center">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
@@ -61,7 +61,7 @@ We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gong
 7. where I lied down and noticed the clouds moving
 8. the smell of the plants became stronger in the rainy days
 
-## Findings at Gongqing Forest Park: 
+## Findings at Gongqing Forest Park
 At Oct.18th we did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 ### 1. the most important finding which inspired my final project
