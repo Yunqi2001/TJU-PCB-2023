@@ -75,7 +75,6 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 <br/>
-
 [⬆️back to top](#Exploration)
 
 ### 1. the most important finding which inspired my final project
