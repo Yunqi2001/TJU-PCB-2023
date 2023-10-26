@@ -19,16 +19,16 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
 
   	<p align="center">
-		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" height="350">
-		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" height="350">
+		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
+		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
 	</p>
 
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
 
 <p align="center">
-	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
 	the soft earth after rain and the shoes with thick sole I wore that day
 </p>
