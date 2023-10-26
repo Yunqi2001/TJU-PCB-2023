@@ -3,9 +3,9 @@
 ## ✏️Description
 We explored the eco-system in our campus and Gongqing forest park to get some inspiration of the final project.
 <br/>
-- [Findings at Tongji Campus](#findings-at-tongji-campus)
-[Gongqing forest park](#findings-at-gongqing-forest-park)
-[the finding that finally became my project](#1-the-most-important-finding-which-inspired-my-final-project)
+- [findings at Tongji Campus](#findings-at-tongji-campus)
+- [findings at Gongqing Forest Park](#findings-at-gongqing-forest-park)
+- [the finding that finally became my project](#1-the-most-important-finding-which-inspired-my-final-project)
 
 ## 💡Tips
 - use the sense you already have and you wish you have
