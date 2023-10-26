@@ -9,36 +9,39 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 
 ## 1️⃣My Findings at the Tongji campus: 
 ### 1. Main Findings
-
 <p align="center">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
 </p>
-
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
-
   	<p align="center">
 		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
 		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
 	</p>
-
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
-
 <p align="center">
 	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
-	~ the soft earth after rain and the shoes with thick sole I wore that day ~
+	(the soft earth after rain and the shoes with thick sole I wore that day)
 </p>
 
 ### 2. Overall Exploration Map with More Findings
-![other findings 1](./images/IMG_1179.jpeg)![other findings 2](./images/IMG_1178.jpeg)
+<p align="center">
+		<img src="./images/IMG_1179.jpeg") alt="size limit image cant be show" width="350">
+		<img src="./images/IMG_1178.jpeg") alt="size limit image cant be show" width="350">
+</p>
+
 1. my feet felt the slight difference stepping on different surface through my shoes 
 2. the lawn was just been mowed by a lawn mower and the smell of grass was strong
 3. walking from the open lawn into the boulevard, the light darkened suddenly
 4. the leaves on the cherry blossom avenue were bitten out of many holes by insects, and more light went through them
+<p align="center">
+		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
+		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
+</p>
 - ![leaves with holes](./images/IMG_0757.jpeg)
 5. several pieces of shed bark on the lawn on the rainy day
 - ![shed bark on the lawn](./images/IMG_0750.jpeg)
