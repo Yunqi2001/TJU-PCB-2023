@@ -1,7 +1,7 @@
 # 🔍Exploration
 
 ## Description
-We explored the eco-system [in our campus](#1️⃣-my-findings-at-the-tongji-campus:) and Gongqing forest park to get some ideas of the final project
+We explored the eco-system in our campus [1️⃣My Findings at the Tongji campus:](#1️⃣-my-findings-at-the-tongji-campus:) and Gongqing forest park to get some ideas of the final project
 
 ## 💡Tips
 - use the sense you already have and you wish you have
