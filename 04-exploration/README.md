@@ -1,9 +1,11 @@
 # 🔍Exploration
 
 ## ✏️Description
-We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gongqing forest park](#findings-at-gongqing-forest-park) to get some inspiration of the final project.
+We explored the eco-system in our campus and Gongqing forest park to get some inspiration of the final project.
 <br/>
-click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to the finding that finally became my project
+- [Findings at Tongji Campus](#findings-at-tongji-campus)
+[Gongqing forest park](#findings-at-gongqing-forest-park)
+[the finding that finally became my project](#1-the-most-important-finding-which-inspired-my-final-project)
 
 ## 💡Tips
 - use the sense you already have and you wish you have
