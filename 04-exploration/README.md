@@ -18,10 +18,10 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
-  	<p align="left">
-		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
-		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
-	</p>
+ <p align="left">
+	<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
+</p>
  
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
@@ -72,9 +72,9 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 This time I got the idea for my final project! 
 ### 1. the most important finding which inspired my final project
 <p align="left">
-	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" height="350">
-	<img src="./images/IMG_2067.jpeg") alt="size limit image cant be show" height="350">
-	<img src="./images/IMG_2063.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2067.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2063.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
 ### 2. other findings 
