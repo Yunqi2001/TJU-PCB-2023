@@ -9,7 +9,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 
 ## My Findings at the Tongji campus: 
 ### 1. Main Findings
-![main findings](./images/IMG_1182.jpeg)
+<div aligen = center> ![main findings](./images/IMG_1182.jpeg)
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
