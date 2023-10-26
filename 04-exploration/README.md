@@ -98,5 +98,12 @@ I noticed that several trees in the park
 </p>
 
 ### 3. just wanna show you some beautiful photoes I took ;)
+<p align="left">
+	<img src="./images/IMG_2092.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2116.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2076.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2109.jpeg") alt="size limit image cant be show" width="350">
+</p>
+
 
 [⬆️back to top](#Exploration)
