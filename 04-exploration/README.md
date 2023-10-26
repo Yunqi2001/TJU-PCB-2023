@@ -17,7 +17,7 @@ click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to 
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
-  	<p align="center">
+  	<p align="left">
 		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
 		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
 	</p>
