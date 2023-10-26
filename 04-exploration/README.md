@@ -19,8 +19,8 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
 
   	<p align="center">
-		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
-		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
+		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" height="350">
+		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" height="350">
 	</p>
 
 - **my arms:** It was a rainy day, the wind brought moisture
