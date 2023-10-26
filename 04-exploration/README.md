@@ -30,7 +30,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
-	<font size=1 > the soft earth after rain and the shoes with thick sole I wore that day</font>
+	~the soft earth after rain and the shoes with thick sole I wore that day~
 </p>
 
 ### 2. Overall Exploration Map with More Findings
