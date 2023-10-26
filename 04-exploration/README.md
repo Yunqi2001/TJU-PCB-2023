@@ -17,7 +17,12 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
-	![the picture of clouds took on the exploration day](./images/IMG_0747.jpeg)![the picture of clouds took on other days](./images/IMG_0579.jpeg)![the picture of clouds took on other days](./images/IMG_0242.jpeg)
+
+  	<p align="center">
+		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
+		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
+	</p>
+
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
 	- ![the soft earth after rain](./images/IMG_0768.jpeg)![the shoes with thick sole I wore that day](./images/IMG_1183.jpeg)
