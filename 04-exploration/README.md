@@ -14,6 +14,7 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 <p align="left">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
 </p>
+
 - **my eyes:** 
 	- the shape of the clouds will change depends on different humidity and weather
 	- I found the clouds were moving slowly secretly when I lied down, which I never noticed before
@@ -21,6 +22,7 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 		<img src="./images/IMG_0747.jpeg") alt="size limit image cant be show" width="350">
 		<img src="./images/IMG_0579.jpeg") alt="size limit image cant be show" width="350">
 	</p>
+ 
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
 <p align="left">
@@ -52,6 +54,7 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 	<br/>
 	(shed bark on the lawn)
 </p>
+
 6. it seems that more moss appear on rainy days
 <p align="left">
 	<img src="./images/IMG_0748.jpeg") alt="size limit image cant be show" height="350">
@@ -60,6 +63,7 @@ click [here](#1-the-most-important-finding-which-inspired-my-final-project)( to 
 	<br/>
 	(the moss)
 </p>
+
 7. where I lied down and noticed the clouds moving
 8. the smell of the plants became stronger in the rainy days
 
