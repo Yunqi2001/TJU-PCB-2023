@@ -1,4 +1,4 @@
-# ：🔍Exploration
+# 🔍Exploration
 
 ## Description
 We explored the eco-system in our campus and Gongqing forest park to get some ideas of the final project
