@@ -39,14 +39,14 @@ We explored the eco-system in our campus and Gongqing forest park to get some id
 3. walking from the open lawn into the boulevard, the light darkened suddenly
 4. the leaves on the cherry blossom avenue were bitten out of many holes by insects, and more light went through them
 <p align="center">
-	<img src="./images/IMG_0757.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_0757.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
 	(leaves with holes)
 </p>
 
 5. several pieces of shed bark on the lawn on the rainy day
 <p align="center">
-	<img src="./images/IMG_0750.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_0750.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
 	(shed bark on the lawn)
 </p>
