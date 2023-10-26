@@ -3,7 +3,7 @@
 ## ✏️Description
 We explored the eco-system [in our campus](#findings-at-tongji-campus) and [Gongqing forest park](#findings-at-gongqing-forest-park) to get some inspiration of the final project.
 <br/>
-click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to the finding that finally became my project
+click [here](#the-most-important-finding-which-inspired-my-final-project) to the finding that finally became my project
 
 ## 💡Tips
 - use the sense you already have and you wish you have
@@ -23,7 +23,7 @@ click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to 
 	</p>
 - **my arms:** It was a rainy day, the wind brought moisture
 - **my feet:**  I felt the slight difference stepping on different surface through my shoes, I rarely pay attention to these different touches in my daily life, most of the time I choose to walk on the concrete road. I think stepping on feet is an important way for human to make connection with the nature, there is a kind of meditate is to walk barefoot, but shoes always separate us from nature.
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_0768.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_1183.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
@@ -31,7 +31,7 @@ click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to 
 </p>
 
 ### 2. Overall Exploration Map with More Findings
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_1179.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_1178.jpeg") alt="size limit image cant be show" width="350">
 </p>
@@ -47,13 +47,13 @@ click [here](#1.-the-most-important-finding-which-inspired-my-final-project) to 
 </p>
 
 5. several pieces of shed bark on the lawn on the rainy day
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_0750.jpeg") alt="size limit image cant be show" height="350">
 	<br/>
 	(shed bark on the lawn)
 </p>
 6. it seems that more moss appear on rainy days
-<p align="center">
+<p align="left">
 	<img src="./images/IMG_0748.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_0754.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_0744.jpeg") alt="size limit image cant be show" height="350">
