@@ -1,7 +1,7 @@
 # 🔍Exploration
 
 ## Description
-We explored the eco-system [in our campus](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1%EF%B8%8F⃣my-findings-at-the-tongji-campus) and Gongqing forest park to get some ideas of the final project
+We explored the eco-system [in our campus](#main-findings) and Gongqing forest park to get some ideas of the final project
 
 ## 💡Tips
 - use the sense you already have and you wish you have
