@@ -11,7 +11,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 - use the sense you already have and you wish you have
 - think the element in the whole eco-system, think about what makes the element be there, think about the relationship, the system of input and output
 
-## 1️⃣Findings at Tongji Campus
+## Findings at Tongji Campus
 [⬆️back to top](#Exploration)
 
 ### 1. Main Findings
@@ -71,7 +71,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 7. where I lied down and noticed the clouds moving
 8. the smell of the plants became stronger in the rainy days
 
-## 2️⃣Findings at Gongqing Forest Park
+## Findings at Gongqing Forest Park
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 <br/>
@@ -85,7 +85,18 @@ This time I got the idea for my final project!
 	<img src="./images/IMG_2079.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
-### 2. other findings 
+I noticed that several trees in the park 
+
+### 2. my notes & other findings 
+<p align="left">
+	<img src="./images/IMG_2217.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2222.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2223.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2224.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2225.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2227.jpeg") alt="size limit image cant be show" width="350">
+</p>
+
 ### 3. just wanna show you some beautiful photoes I took ;)
 
 [⬆️back to top](#Exploration)
