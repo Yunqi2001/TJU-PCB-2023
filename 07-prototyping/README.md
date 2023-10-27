@@ -1,9 +1,13 @@
 # 🛠️Prototyping
 
-## ✏️Description
+## ✏️Description & Table of Content
 After getting the idea for our final project, we began creating a prototype of it, considering the physical structure of the product. 
 <br/>
 -> click to check [my concept of the final project](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project)
+<br/>
+- [My First Prototype](#my-first-prototype)
+- [My Second Prototype](#my-second-prototype)
+- [My Final Prototype](#my-final-prototype)
 
 ## 💡Tips
 - make simple things, don't use complicate materials
@@ -11,7 +15,6 @@ After getting the idea for our final project, we began creating a prototype of i
 - don't make a sketch first, let the materials to inspire you
 - always change the idea, let it evolve while making
 - don't use rulers or measuring tools, use the rule of thumb to save time
-  
 
 ## My First Prototype
 ### Let's start!	
@@ -24,6 +27,9 @@ After getting the idea for our final project, we began creating a prototype of i
 	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
+## My Second Prototype
+
+## My Final Prototype
 ### About the circurt
 <p align="left">
 	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width="350">
