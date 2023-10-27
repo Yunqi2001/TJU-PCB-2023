@@ -21,9 +21,11 @@ After getting the idea for our final project, we began creating a prototype of i
 
 ### About the Shape
 <p align="left">
-	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
 ### About the circurt
+<p align="left">
+	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" width="350">
+</p>
