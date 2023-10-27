@@ -12,8 +12,6 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 - think the element in the whole eco-system, think about what makes the element be there, think about the relationship, the system of input and output
 
 ## Findings at Tongji Campus
-[⬆️back to top](#Exploration)
-
 ### 1. Main Findings
 <p align="left">
 	<img src="./images/IMG_1182.jpeg") alt="size limit image cant be show" width="350">
@@ -74,8 +72,6 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 ## Findings at Gongqing Forest Park
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
-<br/>
-[⬆️back to top](#Exploration)
 
 ### 1. the most important finding which inspired my final project
 <p align="left">
