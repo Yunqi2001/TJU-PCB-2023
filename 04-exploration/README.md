@@ -3,7 +3,7 @@
 ## ✏️Description & Table of Content
 We explored the eco-system in our campus and Gongqing forest park to get some inspiration of the final project.
 
-<p alegn="center">
+<p align="center">
 - [Findings at Tongji Campus](#findings-at-tongji-campus)
 - [Findings at Gongqing Forest Park](#findings-at-gongqing-forest-park)
 - [The Finding that Finally Became My Project](#1-idea-of-my-final-project)
