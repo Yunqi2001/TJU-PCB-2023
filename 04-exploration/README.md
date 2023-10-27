@@ -1,6 +1,6 @@
 # 🔍Exploration
 
-## ✏️Description
+## ✏️Description & Table of Content
 We explored the eco-system in our campus and Gongqing forest park to get some inspiration of the final project.
 <br/>
 - [findings at Tongji Campus](#findings-at-tongji-campus)
@@ -73,7 +73,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 
-### 1. Idea of my final project
+### 1. Idea of My Final Project
 I noticed several trees in the woods whose main branches were cut off, leaving a big slice over there. The tree slices looked very out of place in my opinion, and they impressed me a lot. Some tree slices were very rough, which seemed to have fell down due to illness. Some slices were very flat, suggesting that they were cut down by humans for some reasons. 
 <br/>
 They all made me feel very sad, bringing me negative feelings upon first glance.
@@ -93,7 +93,7 @@ At the same time, I reflected on how I perceive nature. Most of time humans view
 Humans instincts often lead us to fear incompleteness and destruction. However,  in the nature, destruction is synonymous with growth, and both are integral parts of the pattern. Energy is conversed. What lost in one place will be found in another. There are neither happiness nor sadness. From this perspective, human fear seems unnecessary. What we only need to do is to protect our energy and to follow the nature.
 I wanna show the process of how I changed my perspective, and the new perspective I learned from nature in my final design.
 
-### 2. my notes & other findings 
+### 2. My Notes & Other Findings 
 <p align="left">
 	<img src="./images/IMG_2217.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2222.jpeg") alt="size limit image cant be show" width="350">
