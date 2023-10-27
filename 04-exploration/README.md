@@ -5,7 +5,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 <br/>
 - [findings at Tongji Campus](#findings-at-tongji-campus)
 - [findings at Gongqing Forest Park](#findings-at-gongqing-forest-park)
-- [the finding that finally became my project](#1-the-most-important-finding-which-inspired-my-final-project)
+- [the finding that finally became my project](#1-idea-of-my-final-project)
 
 ## 💡Tips
 - use the sense you already have and you wish you have
@@ -73,7 +73,7 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 🧐 We did our second nature exploration at Gongqing Forest Park, where is a less "urban" place compared with our campus. 
 This time I got the idea for my final project! 
 
-### 1. the most important finding which inspired my final project
+### 1. Idea of my final project
 I noticed several trees in the woods whose main branches were cut off, leaving a big slice over there. The tree slices looked very out of place in my opinion, and they impressed me a lot. Some tree slices were very rough, which seemed to have fell down due to illness. Some slices were very flat, suggesting that they were cut down by humans for some reasons. 
 <br/>
 They all made me feel very sad, bringing me negative feelings upon first glance.
