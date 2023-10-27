@@ -11,34 +11,14 @@ After getting the idea for our final project, we began creating a prototype of i
 - don't make a sketch first, let the materials to inspire you
 - always change the idea, let it evolve while making
 - don't use rulers or measuring tools, use the rule of thumb to save time
+  
 
 ## My First Prototype
-Describe the work you did to complete the assignment
+<p align="center">
+	<img src="./images/IMG_2196.jpeg") alt="size limit image cant be show" width="350">
+</p>
 
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+<p align="left">
+	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" width="350">
+</p>
