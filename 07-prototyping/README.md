@@ -1,9 +1,12 @@
 # 🛠️Prototyping
 
 ## ✏️Description
-Describe the assignment
+After getting the idea for our final project, we began creating a prototype of it, considering the physical structure of the product. 
+click to check [my concept of the final project](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project)
 
-## Documentation
+## 💡Tips
+
+## My First Prototype
 Describe the work you did to complete the assignment
 
 bullet point list
