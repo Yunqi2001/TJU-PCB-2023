@@ -74,6 +74,9 @@ We explored the eco-system in our campus and Gongqing forest park to get some in
 This time I got the idea for my final project! 
 
 ### 1. the most important finding which inspired my final project
+I noticed several trees in the woods whose main branches were cut off, leaving a big slice over there. The tree slices looked very out of place in my opinion, and they impressed me a lot. Some tree slices were very rough, which seemed to have fell down due to illness. Some slices were very flat, suggesting that they were cut down by humans for some reasons. 
+<br/>
+They all made me feel very sad, bringing me negative feelings upon first glance.
 <p align="left">
 	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2067.jpeg") alt="size limit image cant be show" width="350">
@@ -81,7 +84,14 @@ This time I got the idea for my final project!
 	<img src="./images/IMG_2079.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
-I noticed that several trees in the park 
+In the eyes of a human, physical impairment is irreversible. The cut tree slices can easily evoke associations with  scars, illness and even death, which are negative, frightening concepts for humans.
+<br/>
+But after looking at some references, I found that it's not a big deal for trees to lose some branches, even most of their branches. It's not a sign of illness, not to mention pain. There are many ungerminated buds on the tree. When a part of the tree is cut off, the tree will relocate the energy from the removed parts to the ungerminated buds to grow up new branches. Their energy is never wasted. The loss of the branches doesn't indicate a decrease in the tree's vitality. Only when a tree's roots are damaged, it truly loses energy, and a portion of it may become unable to grow further.
+<br/>
+For trees, when they lose a part, they simply grow a new one. Tree don't speak, and never experience feelings like happiness or sadness.  They grow silently over time, absorbing and utilizing energy. That's all. I find a Zen-like quality in this process.
+At the same time, I reflected on how I perceive nature. Most of time humans view the nature through their own highly personal experience and emotions. This limited perspective can hinder us from truly understanding and connecting to the nature world. 
+Humans instincts often lead us to fear incompleteness and destruction. However,  in the nature, destruction is synonymous with growth, and both are integral parts of the pattern. Energy is conversed. What lost in one place will be found in another. There are neither happiness nor sadness. From this perspective, human fear seems unnecessary. What we only need to do is to protect our energy and to follow the nature.
+I wanna show the process of how I changed my perspective, and the new perspective I learned from nature in my final design.
 
 ### 2. my notes & other findings 
 <p align="left">
