@@ -106,7 +106,7 @@ I wanna show the process of how I changed my perspective, and the new perspectiv
 	<img src="./images/IMG_2227.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
-### 3. just wanna show you some beautiful photoes I took ;)
+### 3. just wanna show you some beautiful photoes I took at the forest park ;)
 <p align="left">
 	<img src="./images/IMG_2092.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_2116.jpeg") alt="size limit image cant be show" width="350">
