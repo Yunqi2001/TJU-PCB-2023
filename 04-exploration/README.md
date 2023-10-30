@@ -93,7 +93,7 @@ At the same time, I reflected on how I perceive nature. Most of time humans view
 Humans instincts often lead us to fear incompleteness and destruction. However,  in the nature, destruction is synonymous with growth, and both are integral parts of the pattern. Energy is conversed. What lost in one place will be found in another. There are neither happiness nor sadness. From this perspective, human fear seems unnecessary. What we only need to do is to protect our energy and to follow the nature.
 I wanna show the process of how I changed my perspective, and the new perspective I learned from nature in my final design.
 <p align="left">
-	<img src="./images/IMG_2068.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2455.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 ### 2. My Notes & Other Findings 
