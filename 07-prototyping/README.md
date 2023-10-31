@@ -27,17 +27,17 @@ Only when a button representing the tree's roots is pressed would serval LEDs tu
 At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. 
 <br/>  
 **I asked myself three questions:** 
-<br/>
 - **1. what's the input & output devices?**
 - **2. how big will it be?**
 - **3. where will I place the PCB board and the battery?**
-<br/>
-I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
+
 <p align="left">
 	<img src="./images/IMG_2480.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_2481.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_2482.jpeg") alt="size limit image cant be show" height="350">
 </p>
+
+I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
 
 ### About the Shape
 <p align="left">
