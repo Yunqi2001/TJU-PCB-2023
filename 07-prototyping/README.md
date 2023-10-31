@@ -60,7 +60,8 @@ I only had an answer for the first question when I started creating the prototyp
 
 - After having the main structure, some decorations and accessories for hanging were added.  This prototype is now complete.
   <p align="left">
-	<img src="./images/IMG_1.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_5.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_4.jpeg") alt="size limit image cant be show" height="350">
   </p>
 
 
