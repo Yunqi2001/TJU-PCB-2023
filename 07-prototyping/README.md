@@ -44,7 +44,10 @@ I only had an answer for the first question when I started creating the prototyp
 	<p align="left">
 		<img src="./images/IMG_2196.jpeg") alt="size limit image cant be show" height="350">
 	</p>
-
+- Then let's add components to it! My idea was to create three layers: the PCB & battery layer, an opaque layer to conceal the circuit, and a transparent layer on the to scatter the light. And put the LEDs and light sensors on the top through the holes on the layers. (Unfortunately I cut my finger when trying to make holes with a knife. Always remember to use drills to make holes😢)
+- Luckily I found a oxygen tube! I cut it and wrapped the jump wires with it, which enhanced the overall appearance.
+- Actually I should connect it to the PCB board I made earlier and the battery. But I found that the board I had created was a little bit large for the size of product I wanted to make. So I cut a wooden board to replace the actual PCB and I used a paper board as a substitute for the battery. This prototype won't really work.
+- I got a new inspiration when gathering materials! I wanted to add a new feature for "recharging" the "tree" when all the "roots "are harmed and all the "energy"  of the "tree" is depleted. The color sensor provided me with an idea.  I placed a color sensor at the base of the "tree" as a new input interface. When all the LEDs are off, indicating that all the energy of the "tree" has been depleted, people can put the device near something green to "recharge" it. Then all the LEDs will turn on again,  and people can interact with it once more.
 <p align="left">
 	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" width=262.5>
 	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width=262.5>
