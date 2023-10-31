@@ -45,7 +45,8 @@ I only had an answer for the first question when I started creating the prototyp
 		<img src="./images/IMG_2196.jpeg") alt="size limit image cant be show" height="350">
 	</p>
  
-- Then let's add components to it! My idea was to create three layers: the PCB & battery layer, an opaque layer to conceal the circuit, and a transparent layer on the to scatter the light. And put the LEDs and light sensors on the top through the holes on the layers. (Unfortunately I cut my finger when trying to make holes with a knife. Always remember to use drills to make holes😢)
+- <p>
+	Then let's add components to it! My idea was to create three layers: the PCB & battery layer, an opaque layer to conceal the circuit, and a transparent layer on the to scatter the light. And put the LEDs and light sensors on the top through the holes on the layers. (Unfortunately I cut my finger when trying to make holes with a knife. Always remember to use drills to make holes😢)
 <br/>
 Luckily I found a oxygen tube! I cut it and wrapped the jump wires with it, which enhanced the overall appearance.
 <br/>
@@ -56,6 +57,7 @@ I got a new inspiration when gathering materials! I wanted to add a new feature 
 	<img src="./images/IMG_1.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_2.jpeg") alt="size limit image cant be show" height="350">
 	<img src="./images/IMG_3.jpeg") alt="size limit image cant be show" height="350">
+</p>
 </p>
 
 - After having the main structure, some decorations and accessories for hanging were added.  This prototype is now complete.
