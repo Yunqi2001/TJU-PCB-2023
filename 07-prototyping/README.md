@@ -23,9 +23,9 @@ With a general [concept](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-
 Initially, I only had a vague notion that I could visualize the energy flow of a tree with **light**. In this setup, shining 	**LEDs** would symbolize energy, when someone conceals a LED to simulate cutting a branch, a **light sensor** positioned next to the LED would detect the change and turn off the hidden LED while making other LEDs brighter., which means the total brightness of the device will be conversed. 
 <br/>
 Only when a button representing the tree's roots is pressed would serval LEDs turn off without causing the remaining LEDs to 	brighten. This imitate the tree actually losing energy when its roots are harmed.
-<br/>
-At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. 
 <br/>  
+At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. 
+<br/>
 **I asked myself three questions:** 
 <br/>
 **1. what's the input & output devices?
