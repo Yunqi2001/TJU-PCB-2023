@@ -48,7 +48,7 @@ I only had an answer for the first question when I started creating the prototyp
 
 ### Reflection & ideas about evolution
 <p align="left">
-	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="262.5*3">
+	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 ## My Second Prototype
