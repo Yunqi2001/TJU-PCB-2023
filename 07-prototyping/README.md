@@ -1,4 +1,7 @@
 # 🛠️Prototyping
+<p align="left">
+	<img src="./images/IMG_2196.jpeg") alt="size limit image cant be show" height="350">
+</p>
 
 ## ✏️Description & Table of Content
 After getting the idea for our final project, we began creating a prototype of it, considering the physical structure of the product. 
