@@ -19,7 +19,7 @@ After getting the idea for our final project, we began creating a prototype of i
 ## My First Prototype
 ### Let's start!
 <p>
-	With a general concept of what I wanna express in my product, I started thinking about how to physically realize it using 	electronic components.
+	With a general [concept](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project) of what I wanna express in my product, I started thinking about how to physically realize it using 	electronic components.
 	<br/>
 	Initially, I only had a vague notion that I could visualize the energy flow of a tree with **light**. In this setup, shining 	**LEDs** would symbolize energy, when someone conceals a LED to simulate cutting a branch, a **light sensor** positioned 	next to the LED would detect the change and turn off the hidden LED while making other LEDs brighter., which means the total 	brightness of the device will be conversed. 
 	<br/>
