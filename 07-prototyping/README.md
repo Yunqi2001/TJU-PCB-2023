@@ -25,7 +25,7 @@ Initially, I only had a vague notion that I could visualize the energy flow of a
 Only when a button representing the tree's roots is pressed would serval LEDs turn off without causing the remaining LEDs to 	brighten. This imitate the tree actually losing energy when its roots are harmed.
 <br/>  
 At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. 
-<br/>
+<br/>  
 **I asked myself three questions:** 
 <br/>
 - **1. what's the input & output devices?**
