@@ -40,6 +40,11 @@ At that time I didn't have a clear picture of what the device will actually look
 I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
 
 ### 🚧About the Structure
+- After gathering some materials (rubbish, components. etc), I started with the shape of trees. The first consideration was its size. I thought it should roughly the size of a hand since I wanted hang it above my bed and also wear it around my neck like a necklace.  Given that light is a central element in the entire setup, I thought it would be nice to use some transparent material to diffuse the light, making it more visually appealing. So I firstly drew a tree shape on a piece of transparent material to confirm the general size and appearance,  and then added the circuit on it for the interactive function.
+<p align="left">
+	<img src="./images/IMG_2196.jpeg") alt="size limit image cant be show" width="700">
+</p>
+
 <p align="left">
 	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" width=262.5>
 	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width=262.5>
