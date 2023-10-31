@@ -41,14 +41,14 @@ I only had an answer for the first question when I started creating the prototyp
 
 ### About the Structure
 <p align="left">
-	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 ### Reflection & ideas about evolution
 <p align="left">
-	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="700">
 </p>
 
 ## My Second Prototype
