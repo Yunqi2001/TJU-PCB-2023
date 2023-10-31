@@ -32,9 +32,9 @@ At that time I didn't have a clear picture of what the device will actually look
 - **3. where will I place the PCB board and the battery?**
 
 <p align="left">
-	<img src="./images/IMG_2480.jpeg") alt="size limit image cant be show" width=262.5>
-	<img src="./images/IMG_2481.jpeg") alt="size limit image cant be show" width=262.5>
-	<img src="./images/IMG_2482.jpeg") alt="size limit image cant be show" width=262.5>
+	<img src="./images/IMG_2480.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2481.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2482.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
