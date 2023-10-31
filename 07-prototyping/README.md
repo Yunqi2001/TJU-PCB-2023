@@ -28,11 +28,11 @@ At that time I didn't have a clear picture of what the device will actually look
 <br/>
 **I asked myself three questions:** 
 <br/>
-**1. what's the input & output devices?
+- **1. what's the input & output devices?**
 <br/>
-2. how big will it be?
+- **2. how big will it be?**
 <br/>
-3. where will I place the PCB board and the battery?**
+- **3. where will I place the PCB board and the battery?**
 <br/>
 I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
 <p align="left">
