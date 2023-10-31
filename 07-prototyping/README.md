@@ -68,6 +68,10 @@ I only had an answer for the first question when I started creating the prototyp
 
 
 ### 🤔Reflection & ideas about evolution
+-  After completing this prototype,  I reconsidered the rationality of the current structure again and realized that it might not be necessary to have three layers. Perhaps I don't need to hide the PCB behind something, it could be more stylish to expose it directly. Having too many layers make the final product heavy and bulky.
+-   I realized that I can position the PCB board directly behind the transparent layer, replacing the existing opaque layer. This adjustment will make the product lighter and more elegant.
+-   Furthermore,  it might not be necessary to replicate the exact appearance of a real tree. Since many electronic components are included,  maybe I can create a more tech-style design that imitates the organic shapes of trees in a technical style.
+-   I sketched a new version with a improved structure.⬇️ 
 <p align="left">
 	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="700">
 </p>
