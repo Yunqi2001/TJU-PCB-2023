@@ -39,16 +39,16 @@ At that time I didn't have a clear picture of what the device will actually look
 
 I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
 
-### About the Structure
+### ♟️About the Structure
 <p align="left">
 	<img src="./images/IMG_2201.jpeg") alt="size limit image cant be show" width=262.5>
 	<img src="./images/IMG_2197.jpeg") alt="size limit image cant be show" width=262.5>
 	<img src="./images/IMG_2198.jpeg") alt="size limit image cant be show" width=262.5>
 </p>
 
-### Reflection & ideas about evolution
+### 🤔Reflection & ideas about evolution
 <p align="left">
-	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="700">
 </p>
 
 ## My Second Prototype
