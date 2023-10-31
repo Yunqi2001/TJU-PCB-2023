@@ -19,19 +19,25 @@ After getting the idea for our final project, we began creating a prototype of i
 ## My First Prototype
 ### Let's start!
 With a general [concept](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project) of what I wanna express in my product, I started thinking about how to physically realize it using electronic components.
-Initially, I only had a vague notion that I could visualize the energy flow of a tree with **light**. In this setup, shining 	**LEDs** would symbolize energy, when someone conceals a LED to simulate cutting a branch, a **light sensor** positioned 	next to the LED would detect the change and turn off the hidden LED while making other LEDs brighter., which means the total 	brightness of the device will be conversed. 
+Initially, I only had a vague notion that I could visualize the energy flow of a tree with **light**. In this setup, shining 	**LEDs** would symbolize energy, when someone conceals a LED to simulate cutting a branch, a **light sensor** positioned next to the LED would detect the change and turn off the hidden LED while making other LEDs brighter., which means the total brightness of the device will be conversed. 
 <br/>
 Only when a button representing the tree's roots is pressed would serval LEDs turn off without causing the remaining LEDs to 	brighten. This imitate the tree actually losing energy when its roots are harmed.
 <br/>
-<p>
-	At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the 	growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. I asked myself three 	questions: 1. what's the input & output devices? 2. how big will it be? 3. where will I place the PCB board and the battery?
-	<br/>
-	I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
-	 <p align="left">
-		<img src="./images/IMG_2480.jpeg") alt="size limit image cant be show" height="350">
-		<img src="./images/IMG_2481.jpeg") alt="size limit image cant be show" height="350">
-		<img src="./images/IMG_2482.jpeg") alt="size limit image cant be show" height="350">
-	</p>
+At that time I didn't have a clear picture of what the device will actually look like in my mind. As I was inspired by the growth of trees, I began with imitating the shape of trees. I sketched some some trees and components. 
+<br/>
+**I asked myself three questions:** 
+<br/>
+**1. what's the input & output devices?
+<br/>
+2. how big will it be?
+<br/>
+3. where will I place the PCB board and the battery?**
+<br/>
+I only had an answer for the first question when I started creating the prototype. But it's okay, I decided to answer the 	second and the third question while working hands-on :)
+<p align="left">
+	<img src="./images/IMG_2480.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2481.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/IMG_2482.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 ### About the Shape
