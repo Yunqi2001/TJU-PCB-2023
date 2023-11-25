@@ -3,7 +3,7 @@
 ## Description
 How do humans perceive plants?
 <br/>
-At times, we project ourselves into the. The broken branches of trees evoke thoughts of human limbs, yet for humans, body losses is irreversible. But for a tree, losing a branch is quite normal. The energy from the lost limb is redirected to other branches, and only when the roots underground are harmed does the tree actually lose its energy.
+At times, we project ourselves into them. The broken branches of trees evoke thoughts of human limbs, yet for humans, body losses is irreversible. But for a tree, losing a branch is quite normal. The energy from the lost limb is redirected to other branches, and only when the roots underground are harmed does the tree actually lose its energy.
 <br/>
 That's the life rhythm of trees. As humans, there is no need to overly imbue this with emotion and personal experiences. Just pause and feel!
 <br/>
