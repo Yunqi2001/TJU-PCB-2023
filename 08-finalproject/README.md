@@ -7,6 +7,8 @@ At times, we project ourselves into them. The broken branches of trees evoke tho
 
 That's the life rhythm of trees. As humans, there is no need to overly imbue this with emotion and personal experiences. Just pause and feel!
 
+<br/>
+
 人如何感知植物？有的时候人们代入自身。
 
 树的断枝让人联想到人类残缺的肢体，对人类来说躯体的残缺是不可逆的，但对树来说是一种非常平常的事，损失掉断肢，就把能量给其他的枝干，只有藏在地下的根部受到伤害，才真正损失了它的能量。
