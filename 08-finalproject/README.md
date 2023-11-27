@@ -13,8 +13,8 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 
 这是树的生之律，作为人类我们并不需要过多地投射情感和经验，只是停下来，感受。
 
-<p align="left">
-	<img src="./images/poster.jpg") alt="size limit image cant be show" width="350">
+<p align="center">
+	<img src="./images/poster.jpg") alt="size limit image cant be show" width="700">
 </p>
 
 ## overview
@@ -30,3 +30,7 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 	<img src="./pics/18.jpg") alt="size limit image cant be show" width="350">
 </p>
 
+## circuit design
+<p align="center">
+	<img src="./images/circuit_design.png") alt="size limit image cant be show" width="700">
+</p>
