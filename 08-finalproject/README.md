@@ -21,6 +21,8 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 [my video](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/08-finalproject/final_video.mp4)
 <p align="left">
 	<img src="./pics/01.jpg") alt="size limit image cant be show" width="350">
+</p>
+<p align="left">
 	<img src="./pics/1.jpg") alt="size limit image cant be show" width="350">
 	<img src="./pics/2.jpg") alt="size limit image cant be show" width="350">
 </p>
