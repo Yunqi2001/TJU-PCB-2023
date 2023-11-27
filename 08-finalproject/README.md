@@ -13,4 +13,8 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 
 这是树的生之律，作为人类我们并不需要过多地投射情感和经验，只是停下来，感受。
 
+<p align="left">
+	<img src="./images/poster.jpg") alt="size limit image cant be show" width="350">
+</p>
+
 
