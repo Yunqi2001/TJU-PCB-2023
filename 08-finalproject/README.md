@@ -23,7 +23,7 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 	<img src="./pics/01.jpg") alt="size limit image cant be show" width="700">
 	<img src="./pics/1.jpg") alt="size limit image cant be show" width="700">
 </p>
-<p align="left">
+<p align="center">
 	<img src="./pics/7.jpg") alt="size limit image cant be show" width="350">
 	<img src="./pics/13.jpg") alt="size limit image cant be show" width="350">
 	<img src="./pics/19.jpg") alt="size limit image cant be show" width="350">
