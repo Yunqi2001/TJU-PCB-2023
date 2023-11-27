@@ -33,5 +33,5 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 ## circuit design
 <p align="center">
 	<img src="./images/circuit_design.png") alt="size limit image cant be show" width="700">
-	[view my JLC page](https://u.easyeda.com/join?type=project&key=1d0ad0fddd464573b1f5d1b4cbe1dce2&inviter=c1b5e9f0ba0b4472a1211fd8100dc0da)
 </p>
+[view my JLC page](https://u.easyeda.com/join?type=project&key=1d0ad0fddd464573b1f5d1b4cbe1dce2&inviter=c1b5e9f0ba0b4472a1211fd8100dc0da)
