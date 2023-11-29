@@ -1,13 +1,10 @@
 # 🛠️Prototyping
 
-## ✏️Description & Table of Content
+## ✏️Description
 After getting the idea for our final project, we began creating a prototype of it, considering the physical structure of the product. 
 <br/>
 -> click to check [my concept of the final project](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project)
 <br/>
-- [My First Prototype](#my-first-prototype)
-- [My Second Prototype](#my-second-prototype)
-- [My Final Prototype](#my-final-prototype)
 
 ## 💡Tips
 - make simple things, don't use complicate materials
@@ -76,6 +73,3 @@ I only had an answer for the first question when I started creating the prototyp
 		<img src="./images/IMG_2483.jpeg") alt="size limit image cant be show" width="700">
 	</p>
 
-## My Second Prototype
-
-## My Final Prototype
