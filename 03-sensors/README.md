@@ -9,6 +9,7 @@ Already have the basic components ready on your breadboard? In this experiment, 
 	<img src="./images/IMG_0723.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_0722.jpeg") alt="size limit image cant be show" width="350">
 </p>
+
 - If you're using a two-pin sensor, hook one pin up to power and the other to an Arduino pin. **And don't forget to link a ground wire to that same Arduino pin's side.**
 <p align="left">
 	<img src="./images/IMG_0729.jpeg") alt="size limit image cant be show" width="350">
