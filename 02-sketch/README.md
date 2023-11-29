@@ -1,6 +1,6 @@
-# Assignment's Title
+# Sketch - LED
 
-## Assignment's description
+## Description
 Describe the assignment
 
 ## Documentation
