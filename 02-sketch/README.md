@@ -2,7 +2,7 @@
 
 ## Description
 We sketched some basic components to understand the structures of them and how they work. I sketched LED!
-<br/>
+<br/>  
 There is a list of the components that you can choose and sketch: 
 1. Resistor
 2. Ceramic capacitor (tiny one)
