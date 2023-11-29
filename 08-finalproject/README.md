@@ -13,6 +13,10 @@ That's the life rhythm of trees. As humans, there is no need to overly imbue thi
 
 这是树的生之律，作为人类我们并不需要过多地投射情感和经验，只是停下来，感受。
 
+<br/>
+-> click to check [how I got the inspiration of final project](https://github.com/Yunqi2001/TJU-PCB-2023/blob/main/04-exploration/README.md#1-idea-of-my-final-project)
+<br/>
+
 <p align="center">
 	<img src="./images/poster.jpg") alt="size limit image cant be show" width="700">
 </p>
