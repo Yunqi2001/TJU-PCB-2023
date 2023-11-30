@@ -26,6 +26,6 @@ Of course, if you prefer to dive in directly, that's okay too. This exercise is 
 
 - add the leds and test the blink code
 <p align="center">
-	<img src="./images/IMG_0413.jpeg") alt="size limit image cant be show" width="500">
-	<img src="./images/IMG_0470.jpeg") alt="size limit image cant be show" width="500">
+	<img src="./images/IMG_0413.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_0470.jpeg") alt="size limit image cant be show" height="500">
 </p>
