@@ -8,4 +8,16 @@ P.S.: If you, like me, have little knowledge about circuit, it's advisable to re
 Of course, if you prefer to dive in directly, that's okay too. This exercise is very beginner-friendly, allowing you to enhance your circuit knowledge through hands-on experience. The key is not to merely mimic the provided circuit diagrams. While you can create a working circuit system, it's crucial to understand the reasons behind each connection and the function of each electronic component. This understanding will contribute to a genuine grasp of the operating principles of Arduino and prepare you for more advanced tasks later on.
 
 ## Documentation
-
+- Firstly, let's get a grip on what's going on inside the breadboard.
+<p align="center">
+	<img src="./images/IMG_3280.jpeg") alt="size limit image cant be show" width="500">
+</p>
+- Then, our core technology - the ATmega
+<p align="center">
+	<img src="./images/atmega pinout.jpeg") alt="size limit image cant be show" width="500">
+</p>
+- add the crystal (two 22pu capacitor should connect to it, put it as close to the ATmega as possible)
+- about the voltage regulator 
+<p align="center">
+	<img src="./images/IMG_3281.jpeg") alt="size limit image cant be show" width="500">
+</p>
