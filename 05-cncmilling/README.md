@@ -14,7 +14,7 @@ It's a good idea to change the footprint of the components to a larger size, whi
 <br/>
 Actually in the beginning, I wanted to create a leaf-shaped design and drew a simple sketch with only components and the outline. However, during the wiring process, I realized I had to move some components around, and the traces took up more space than I assumed. So the final shape deviated from the original design a lot.
 <p align="center">
-	<img src="./images/IMG_3728.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_3278.jpeg") alt="size limit image cant be show" height="500">
 </p>
 <br/>
 It's a good idea to start with a sketch, but always keep the traces in mind when your are sketching.
