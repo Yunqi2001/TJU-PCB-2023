@@ -9,7 +9,9 @@ Design the circuit in easyEDA, cut the board with the cnc machine, and solder th
 	<img src="./images/final_design.JPG") alt="size limit image cant be show" width="500">
 </p>
 Firstly, put the components you need in the schematic, set the circuit connections between them.
-<br/>
+<p align="center">
+	<img src="./images/schematic.jpeg") alt="size limit image cant be show" width="500">
+</p>
 And then, in the PCB view, design the actual routing and the placement of components.
 <br/>
 Actually in the beginning, I wanted to create a leaf-shaped design and drew a simple sketch with only components and the outline. However, during the wiring process, I realized I had to move some components around, and the traces took up more space than I assumed. So the final shape deviated from the original design a lot.
