@@ -24,6 +24,16 @@ Of course, if you prefer to dive in directly, that's okay too. This exercise is 
 	<img src="./images/IMG_3281.jpeg") alt="size limit image cant be show" width="500">
 </p>
 
+- about the button with 4 pins 
+<p align="center">
+	<img src="./images/IMG_3282.jpeg") alt="size limit image cant be show" width="500">
+</p>
+
+- about the variable resistor 
+<p align="center">
+	<img src="./images/IMG_3283.jpeg") alt="size limit image cant be show" width="500">
+</p>
+
 - add the leds and test the blink code
 <p align="center">
 	<img src="./images/IMG_0413.jpeg") alt="size limit image cant be show" height="500">
