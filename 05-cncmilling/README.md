@@ -39,7 +39,15 @@ There are additional steps required to make the design understandable for the CN
 <p align="center">
 	<img src="./images/files.jpeg") alt="size limit image cant be show" width="500">
 </p>
-I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine..
+I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine.
+
+<br/>
+
+One crucial point to note: ensure that the outline image does not touch the edges, or else it might not cut properly
+<p align="center">
+	<img src="./images/outline.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/outline issue.jpeg") alt="size limit image cant be show" width="350">
+</p>
 
 ## cut the board with cnc machine
 <p align="left">
