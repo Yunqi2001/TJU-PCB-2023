@@ -36,6 +36,10 @@ There are additional steps required to make the design understandable for the CN
 3. seperate out the three cut files for traces, holes and the outline. (we will use different endmills and cutting settings)
 4. export the three PNG files **at a resolution of 1000dpi**
 5. upload the three PNG file to get the rml files
+<p align="center">
+	<img src="./images/files.jpeg") alt="size limit image cant be show" width="500">
+</p>
+I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine..
 
 ## cut the board with cnc machine
 <p align="left">
