@@ -47,17 +47,18 @@ There are additional steps required to make the design understandable for the CN
 </p>
 
 ## cut the board with CNC machine
-place the copper board securely -> calibrate the zero coordinates for the x and y axes -> install the endmill -> calibrate the zero coordinates for the z-axis
-<p align="left">
+- steps: place the copper board securely -> calibrate the zero coordinates for the x and y axes -> install the endmill -> calibrate the zero coordinates for the z-axis
+<p align="center">
 	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" width="350">
 </p>
+
 - Two ways to verify that the cutting is proceeding correctly: (Stop the machine immediately and check if you sense any abnormalities!!)
 	1. Listen: A light and smooth buzzing sound.  
 	2. See:  If you see dust, it indicates that the cutting is on track.
 - excessive load error:
-	<p align="left">
-		<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" width="350">
-	</p>
+<p align="center">
+	<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" width="350">
+</p>
 
 ## solder components 
