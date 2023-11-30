@@ -81,8 +81,8 @@ There are additional steps required to make the design understandable for the CN
  	<img src="./images/IMG_1981.jpeg") alt="size limit image cant be show" height="500">
 </p>
 
-- After obtaining two scrapped boards, I finally got one that functions properly. 
+- After two scrapped boards, I finally got one that functions properly. 
 <p align="center">
-  	<img src="./images/IMG_1976.jpeg") alt="size limit image cant be show" height="500">
-   	<img src="./images/IMG_1978.jpeg") alt="size limit image cant be show" height="500">
+  	<img src="./images/IMG_1978.jpeg") alt="size limit image cant be show" height="500">
+   	<img src="./images/IMG_1976.jpeg") alt="size limit image cant be show" height="500">
 </p>
