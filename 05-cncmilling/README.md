@@ -8,6 +8,22 @@ Design the circuit in easyEDA, cut the board with the cnc machine, and solder th
 <p align="center">
 	<img src="./images/final_design.JPG") alt="size limit image cant be show" width="500">
 </p>
+Firstly, put the components you need in the schematic, set the circuit connections between them.
+<br/>
+And then, in the PCB view, design the actual routing and the placement of components.
+<br/>
+Actually in the beginning, I wanted to create a leaf-shaped design and drew a simple sketch with only components and the outline. However, during the wiring process, I realized I had to move some components around, and the traces took up more space than I assumed. So the final shape deviated from the original design a lot.
+<br/>
+It's a good idea to start with a sketch, but always keep the traces in mind when your are sketching.
+<br/>
+I struggled a lot with defining the outline, trying to make it fit in the internal circuit and beautiful at the same time. I made a lot adjustments, you can see the evolving process in  the screeshots captured at different stages below.
+<p align="left">
+	<img src="./images/1.JPG") alt="size limit image cant be show" width="350">
+	<img src="./images/2.JPG") alt="size limit image cant be show" width="350">
+	<img src="./images/jelly fish.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/final_design.JPG") alt="size limit image cant be show" width="350">
+</p>
+The final shape looks like a flower with a leaf. So I call it flowerino :)
 
 ## get the cut file ready
 
