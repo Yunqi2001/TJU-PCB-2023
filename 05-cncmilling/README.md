@@ -68,3 +68,24 @@ There are additional steps required to make the design understandable for the CN
 </p>
 
 ## solder components 
+- get your components ready
+  <p align="center">
+	<img src="./images/IMG_1969.jpeg") alt="size limit image cant be show" height="500">
+</p>
+
+- Never touch the soldering iron with your hands.
+- Clean the soldering iron tip after soldering each component.
+- Ensure the soldering iron makes simultaneous contact with the component and pad, apply heat for three seconds.
+- Exercise extreme caution when soldering components on the copper board, especially to avoid breaking the solder pads. If, like me, you accidentally break the solder pads for the USB serial, you'll have no choice but to cut another piece.
+- I cut three boards because initially, I made the holes too large, causing instability in holding the components, and I ended up breaking the copper pad for the USB serial twice. In honor of all the mistakes I made 😅👇
+  <p align="center">
+	<img src="./images/IMG_1968.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_1965.jpeg") alt="size limit image cant be show" height="500">
+ 	<img src="./images/IMG_1981.jpeg") alt="size limit image cant be show" height="500">
+</p>
+
+- After obtaining two scrapped boards, I finally got one that functions properly. 
+<p align="center">
+  	<img src="./images/IMG_1976.jpeg") alt="size limit image cant be show" height="500">
+   	<img src="./images/IMG_1978.jpeg") alt="size limit image cant be show" height="500">
+</p>
