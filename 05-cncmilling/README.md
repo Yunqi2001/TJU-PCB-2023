@@ -50,10 +50,10 @@ There are additional steps required to make the design understandable for the CN
 ## cut the board with CNC machine
 - steps: place the copper board securely -> calibrate the zero coordinates for the x and y axes -> install the endmill -> calibrate the zero coordinates for the z-axis
 <p align="center">
-	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_1757.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_1744.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" height="500"">
+	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_1757.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_1744.jpeg") alt="size limit image cant be show" height="500">
 </p>
 
 - Two ways to verify that the cutting is proceeding correctly: (Stop the machine immediately and check if you sense any abnormalities!!)
@@ -61,8 +61,8 @@ There are additional steps required to make the design understandable for the CN
 	2. See:  If you see dust, it indicates that the cutting is on track.
 - excessive load error:
 <p align="center">
-	<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" width="350">
-	<img src="./images/IMG_1724.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/IMG_1724.jpeg") alt="size limit image cant be show" height="500">
 </p>
 
 ## solder components 
