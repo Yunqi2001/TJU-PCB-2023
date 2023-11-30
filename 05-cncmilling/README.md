@@ -52,6 +52,8 @@ There are additional steps required to make the design understandable for the CN
 <p align="center">
 	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1757.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1744.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
 - Two ways to verify that the cutting is proceeding correctly: (Stop the machine immediately and check if you sense any abnormalities!!)
@@ -60,6 +62,7 @@ There are additional steps required to make the design understandable for the CN
 - excessive load error:
 <p align="center">
 	<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1724.jpeg") alt="size limit image cant be show" width="350">
 </p>
 
 ## solder components 
