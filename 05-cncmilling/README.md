@@ -5,9 +5,6 @@ Time to create your own PCB!
 Design the circuit in easyEDA, cut the board with the cnc machine, and solder the components on it.
 
 ## circuit design in easyEDA
-<p align="center">
-	<img src="./images/final_design.JPG") alt="size limit image cant be show" width="500">
-</p>
 Firstly, put the components you need in the schematic, set the circuit connections between them.
 <p align="center">
 	<img src="./images/schematic.jpeg") alt="size limit image cant be show" width="500">
@@ -69,7 +66,7 @@ There are additional steps required to make the design understandable for the CN
 
 ## solder components 
 - get your components ready
-  <p align="center">
+  <p align="left">
 	<img src="./images/IMG_1969.jpeg") alt="size limit image cant be show" height="500">
 </p>
 
