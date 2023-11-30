@@ -1,7 +1,8 @@
 # cncMilling
 
 ## Description
-Describe the assignment
+Time to create your own PCB! 
+Design the circuit in easyEDA, cut the board with the cnc machine, and solder the components on it.
 
 ## circuit design in easyEDA
 
