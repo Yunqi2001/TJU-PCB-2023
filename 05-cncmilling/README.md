@@ -43,8 +43,8 @@ There are additional steps required to make the design understandable for the CN
 - I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine.
 - One crucial point to note: ensure that the outline image does not touch the edges, or else it will not be cut properly
 <p align="center">
-	<img src="./images/outline.jpeg") alt="size limit image cant be show" height="500">
-	<img src="./images/outline issue.jpeg") alt="size limit image cant be show" height="500">
+	<img src="./images/outline.jpeg") alt="size limit image cant be show" height="350">
+	<img src="./images/outline issue.jpeg") alt="size limit image cant be show" height="350">
 </p>
 
 ## cut the board with CNC machine
@@ -61,7 +61,7 @@ There are additional steps required to make the design understandable for the CN
 - Two ways to verify that the cutting is proceeding correctly: (Stop the machine immediately and check if you sense any abnormalities!!)
 	1. Listen: A light and smooth buzzing sound.  
 	2. See:  If you see dust, it indicates that the cutting is on track.
-- excessive load error:
+- excessive load error: The machine got stuck during the cutting process, and at this point, the coordinates are completely misaligned. To resolve this, you need to restart the machine and initiate the cutting process anew. If you remember the initial setup and zero coordinate positions, you can continue cutting directly. However, if you don't recall the zero coordinate positions, you'll need to repeat the entire cutting operation. Therefore, it's a good idea to take photos or make records to save the set XYZ zero coordinates after configuring them initially.
 <p align="center">
 	<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" height="500">
 	<img src="./images/IMG_1724.jpeg") alt="size limit image cant be show" height="500">
