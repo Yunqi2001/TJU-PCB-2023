@@ -39,18 +39,25 @@ There are additional steps required to make the design understandable for the CN
 <p align="center">
 	<img src="./images/files.jpeg") alt="size limit image cant be show" width="500">
 </p>
-I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine.
-<br/>  
-One crucial point to note: ensure that the outline image does not touch the edges, or else it will not be cut properly
+- I went through several iterations before obtaining the final cutting file that can be accurately processed. I consistently identified various oversights and issues, fortunately catching them in time before the actual cutting process. Anyway, you should have three rml files like this before you proceeding with the machine.
+- One crucial point to note: ensure that the outline image does not touch the edges, or else it will not be cut properly
 <p align="center">
 	<img src="./images/outline.jpeg") alt="size limit image cant be show" height="500">
 	<img src="./images/outline issue.jpeg") alt="size limit image cant be show" height="500">
 </p>
 
 ## cut the board with CNC machine
+place the copper board securely -> calibrate the zero coordinates for the x and y axes -> install the endmill -> calibrate the zero coordinates for the z-axis
 <p align="left">
 	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" width="350">
 	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" width="350">
 </p>
+- Two ways to verify that the cutting is proceeding correctly: (Stop the machine immediately and check if you sense any abnormalities!!)
+	1. Listen: A light and smooth buzzing sound.  
+	2. See:  If you see dust, it indicates that the cutting is on track.
+- excessive load error:
+	<p align="left">
+		<img src="./images/IMG_1738.jpeg") alt="size limit image cant be show" width="350">
+	</p>
 
 ## solder components 
