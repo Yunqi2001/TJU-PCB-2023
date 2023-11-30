@@ -12,12 +12,20 @@ Of course, if you prefer to dive in directly, that's okay too. This exercise is 
 <p align="center">
 	<img src="./images/IMG_3280.jpeg") alt="size limit image cant be show" width="500">
 </p>
+
 - Then, our core technology - the ATmega
 <p align="center">
 	<img src="./images/atmega pinout.jpeg") alt="size limit image cant be show" width="500">
 </p>
+
 - add the crystal (two 22pu capacitor should connect to it, put it as close to the ATmega as possible)
 - about the voltage regulator 
 <p align="center">
 	<img src="./images/IMG_3281.jpeg") alt="size limit image cant be show" width="500">
+</p>
+
+- add the leds and test the blink code
+<p align="center">
+	<img src="./images/IMG_0413.jpeg") alt="size limit image cant be show" width="500">
+	<img src="./images/IMG_0470.jpeg") alt="size limit image cant be show" width="500">
 </p>
