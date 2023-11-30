@@ -12,5 +12,9 @@ Design the circuit in easyEDA, cut the board with the cnc machine, and solder th
 ## get the cut file ready
 
 ## cut the board with cnc machine
+<p align="left">
+	<img src="./images/IMG_1728.jpeg") alt="size limit image cant be show" width="350">
+	<img src="./images/IMG_1727.jpeg") alt="size limit image cant be show" width="350">
+</p>
 
 ## solder components 
