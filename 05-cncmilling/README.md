@@ -12,7 +12,8 @@ Firstly, put the components you need in the schematic, set the circuit connectio
 <p align="center">
 	<img src="./images/schematic.jpeg") alt="size limit image cant be show" width="500">
 </p>
-And then, in the PCB view, design the actual routing and the placement of components.
+And then, in the PCB view, design the actual routing and the placement of components.  
+It's a good idea to change the footprint of the components to a larger size, which will make soldering the components much easier.
 <br/>
 Actually in the beginning, I wanted to create a leaf-shaped design and drew a simple sketch with only components and the outline. However, during the wiring process, I realized I had to move some components around, and the traces took up more space than I assumed. So the final shape deviated from the original design a lot.
 <br/>
@@ -28,6 +29,12 @@ I struggled a lot with defining the outline, trying to make it fit in the intern
 The final shape looks like a flower with a leaf. So I call it flowerino :)
 
 ## get the cut file ready
+Once the design is finalized, you can't cut the board directly. There are additional steps required to make the design understandable for the CNC machine:
+1. export a white on black pdf file in easyEDA
+2. open in the pdf file in adobe illustrator or other image-processing softwares (always remember to ensure the size is correct)
+3. seperate out the three cut files for traces, holes and the outline. (we will use different endmills and cutting settings)
+4. export the three PNG files **at a resolution of 1000dpi**
+5. upload the three PNG file to get the rml files
 
 ## cut the board with cnc machine
 <p align="left">
